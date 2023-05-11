@@ -1,0 +1,26 @@
+.task{
+    border-bottom: 2px solid black;
+    padding: 12px;
+    background-color: azure;
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.reminder-on{
+    border-left: 5px solid green;
+}
+
+.reminder-off{
+    border-left: 5px solid red;
+}
+
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
